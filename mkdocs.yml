@@ -1,0 +1,8 @@
+site_name: "test-test-radik"
+site_description: "sss"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

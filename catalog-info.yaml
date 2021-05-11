@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test-test-radik"
+  description: "sss"
+  annotations:
+    github.com/project-slug: RadikSejfullinOrg/test-test-radik
+    backstage.io/techdocs-ref: url:https://github.com/RadikSejfullinOrg/test-test-radik
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "radik.s@indriver.com"
